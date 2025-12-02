@@ -2,9 +2,4 @@ hello
 world
 
 
-chennai 
-999
-
-bangalore 555
-delhi 444
 
