@@ -2,8 +2,6 @@ hello
 world
 
 
-Hello DSCE
-Hello Bangalore
 
 
 
